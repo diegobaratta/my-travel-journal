@@ -4,9 +4,9 @@ import Content from './components/Content'
 
 export default function App() {
     return (
-        <>
+        <section className='main'>
             <Header />
             <Content />   
-        </>
+        </section>
     )
 }
